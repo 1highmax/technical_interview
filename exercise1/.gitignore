@@ -1,0 +1,9 @@
+linux
+*.bak
+CHECKSUM*
+linux-image*
+initramfs.cpio
+ubuntu-key.asc
+kernel
+rootfs
+disk.img
